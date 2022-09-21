@@ -12,12 +12,12 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile":[
+  "profile":{
     "user":"uocnv",
     "pass":"123",
     "name":"Uoc Nguyen",
     "email":"vanuoc.haui@gmail.com"
     
     
-  ]
+  }
 }
