@@ -1,4 +1,6 @@
 {
-  "user":"uocnv",
-  "pass":"123"
+  "account":{
+    "user":"uocnv",
+    "pass":"123"
+  }
 }
